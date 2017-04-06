@@ -1,0 +1,3 @@
+[submodule "droidTextSig"]
+	path = droidTextSig
+	url = https://github.com/rjsvieira/droidTextSig.git
